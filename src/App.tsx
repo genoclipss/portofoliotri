@@ -269,11 +269,11 @@ const DATA_PENGALAMAN = {
    DATA SKILL — UBAH BAGIAN INI
    ============================================================ */
 const DATA_SKILL = [
-  { nama: "VScode", logo: aset("/logos/vscode.png") }, // <-- Taruh file PNG di folder public/logos/
-  { nama: "TypeScript", logo: aset("/logos/typescript.png") },
-  { nama: "Tailwind CSS", logo: aset("/logos/tailwind.png") },
-  { nama: "Figma", logo: aset("/logos/figma.png") },
-  { nama: "Node.js", logo: aset("/logos/nodejs.png") },
+  { nama: "Photoshop", logo: aset("/logos/PS.PNG") }, // <-- Taruh file PNG di folder public/logos/
+  { nama: "Capcut", logo: aset("/logos/CC.PNG") },
+  { nama: "Canva", logo: aset("/logos/CANVA.PNG") },
+  { nama: "Figma", logo: aset("/logos/FIGMA.PNG") },
+  { nama: "Vscode", logo: aset("/logos/vscode.png") },
   { nama: "Git", logo: aset("/logos/git.png") },
   { nama: "UI Design", logo: aset("/logos/ui-design.png") },
   { nama: "UX Research", logo: aset("/logos/ux-research.png") },
