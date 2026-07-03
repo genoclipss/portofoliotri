@@ -43,7 +43,7 @@ const DATA_PRIBADI = {
   sapaan: "Halo, Saya", // <-- Sapaan pembuka
   keahlian: "Editor & Designer", // <-- Keahlian utama
   deskripsiSingkat:
-    "Mahasiswa yang tertarik pada bidang multimedia.", // <-- Deskripsi singkat di hero
+    "Mahasiswa berusia 19 tahun yang tertarik pada bidang multimedia.", // <-- Deskripsi singkat di hero
   // Link tombol CTA di Hero Section
   whatsapp: "https://wa.me/62882022211031", // <-- Ganti nomor WhatsApp (format: 62...)
   instagram: "https://instagram.com/3fhatur", // <-- Ganti username Instagram
@@ -51,7 +51,7 @@ const DATA_PRIBADI = {
  fotoProfil:
  aset("/images/p.jpg"),
   tentangSaya:
-    "Saya adalah seorang mahasiswa yang tertarik pada bidang multimedia, dengan pengalaman lebih dari 3 tahun. Saya memiliki passion dalam menciptakan antarmuka yang tidak hanya indah secara visual, tetapi juga intuitif dan mudah digunakan. Saya percaya bahwa desain yang baik adalah desain yang memecahkan masalah pengguna dengan cara yang elegan. Selain bekerja, saya senang belajar teknologi baru dan berbagi ilmu dengan komunitas.", // <-- Deskripsi diri
+    "Saya adalah seorang mahasiswa yang tertarik pada bidang multimedia, dengan pengalaman lebih dari 4 tahun. Saya senang mempelajari hal-hal baru, dan berkreasi dengan kreativitas yang saya punya. Salah satu kelebihan saya adalah cepat beradaptasi dengan teknologi baru dan terus berkembang.", // <-- Deskripsi diri
   lokasi: "Makassar, Indonesia", // <-- Lokasi Anda
   email: "tri.ahmad593@smk.belajar.id", // <-- Email Anda
   telepon: "+62882022211031", // <-- Nomor telepon
