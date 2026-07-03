@@ -68,7 +68,7 @@ const DATA_PENGALAMAN = {
       tahun: "2024 — Sekarang",
       deskripsi:
         "Telah menempuh perguruan tingakt tinggi selama 2 tahun / 4 semester.",
-      logo: "/images/karya/unm.png",
+      logo: aset("/images/karya/unm.png"),
       // <-- Isi galeri "Lebih Detail". Kosongkan foto & video ( [] ) jika tidak ingin tombol muncul.
       karya: {
         foto: [
@@ -93,7 +93,7 @@ const DATA_PENGALAMAN = {
       tahun: "2021 — 2024",
       deskripsi:
         "Telah menempuh pendidikan selama 3 tahun dalam bidang multimedia.",
-      logo: "/images/karya/smk.png",
+      logo: aset("/images/karya/smk.png"),
       karya: {
         foto: [
           aset("/images/karya/smk/1.jpg"),
@@ -114,7 +114,7 @@ const DATA_PENGALAMAN = {
       tahun: "2026 — Sekarang",
       deskripsi:
         "Ambil alih pada bidang redaksi lebih tepatnya sebagai editor mencakup, mengedit video, membuat thumbnail hingga voice over.",
-      logo: "/images/karya/tribun.png",
+      logo: aset("/images/karya/tribun.png"),
       karya: {
         foto: [aset("/images/karya/tribun/1.jpeg")],
         video: [
@@ -197,7 +197,7 @@ const DATA_PENGALAMAN = {
       tahun: " Juni 2023 — September 2023",
       deskripsi:
         "Mengedit berita hingga perkiraan cuaca pada program PRIMEZONE, Menjadi Operator pada program live PRIMEZONE, serta turun lapangan untuk meliput berita secara langsung.",
-      logo: "/images/karya/fajar.jpg",
+      logo: aset("/images/karya/fajar.jpg"),
       karya: {
         foto: [
           aset("/images/karya/fajar/1.jpg"),
@@ -229,7 +229,7 @@ const DATA_PENGALAMAN = {
       tahun: "2025 — Sekarang ",
       deskripsi:
         "Semenjak menjadi clipper, saya telah mengupload 24 video pada Youtube dan Tiktok, total like melebihi 90.00k ",
-      logo: "/images/karya/tiktok.png",
+      logo: aset("/images/karya/tiktok.png"),
       karya: {
         foto: [
           aset("/images/karya/clip/1.jpg"),
@@ -245,7 +245,7 @@ const DATA_PENGALAMAN = {
       tahun: "2025 — Sekarang",
       deskripsi:
         "Ketika saya luang dan hilang arah, biasanya saya bermain dengan kreativitas saya di software editing",
-      logo: "/images/karya/ig.png",
+      logo: aset("/images/karya/ig.png"),
       karya: {
         foto: [
           aset("/images/karya/desain/1.jpg"),
