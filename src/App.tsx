@@ -88,7 +88,7 @@ const DATA_PENGALAMAN = {
       },
     },
     {
-      judul: "SMA Negeri 1 Pinrang",
+      judul: "SMK Negeri 1 Pinrang",
       instansi: "Jurusan Multimedia",
       tahun: "2021 — 2024",
       deskripsi:
