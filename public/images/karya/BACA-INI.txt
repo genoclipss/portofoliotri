@@ -1,0 +1,37 @@
+CARA MENGISI GALERI "LEBIH DETAIL" (Foto & Video)
+====================================================
+
+1) FOTO
+   Taruh file foto (JPG/PNG) di folder ini (public/images/karya/), 
+   lalu daftarkan path-nya di src/App.tsx pada bagian karya.foto, contoh:
+
+     karya: {
+       foto: [
+         "/images/karya/nama-file-1.jpg",
+         "/images/karya/nama-file-2.jpg",
+       ],
+       video: [...],
+     },
+
+   Tips: gunakan foto rasio persegi (1:1) supaya rapi sejajar di galeri.
+
+2) VIDEO (YouTube)
+   Cukup tempel link YouTube apa adanya (tidak perlu upload file video),
+   di bagian karya.video, contoh:
+
+     video: [
+       "https://www.youtube.com/watch?v=xxxxxxxxxxx",
+       "https://youtu.be/xxxxxxxxxxx",
+     ],
+
+   Sistem otomatis mengambil thumbnail video tsb untuk ditampilkan 
+   di galeri, dan akan diputar langsung saat diklik.
+
+3) MENGOSONGKAN
+   Jika satu item pengalaman tidak punya karya sama sekali, kosongkan
+   keduanya supaya tombol "Lebih Detail" tidak muncul:
+
+     karya: { foto: [], video: [] },
+
+Setelah selesai, hapus file BACA-INI.txt ini (opsional), lalu jalankan
+"npm run dev" untuk melihat hasilnya.

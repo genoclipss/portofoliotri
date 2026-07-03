@@ -1,0 +1,28 @@
+CARA MENAMBAHKAN LOGO SKILL (PNG)
+==================================
+
+Taruh file PNG logo aplikasi di folder ini (public/logos/) dengan nama file PERSIS seperti berikut:
+
+- react.png
+- typescript.png
+- tailwind.png
+- figma.png
+- nodejs.png
+- git.png
+- ui-design.png
+- ux-research.png
+
+Kalau nama file logo kamu berbeda, atau kamu mau tambah/kurangi skill, 
+sesuaikan juga path-nya di file src/App.tsx pada bagian DATA_SKILL, contoh:
+
+  { nama: "React", logo: "/logos/react.png" },
+
+Tips:
+- Gunakan PNG dengan background transparan supaya terlihat rapi.
+- Ukuran disarankan minimal 128x128 px (persegi) agar tidak pecah.
+- Logo resmi bisa didownload dari situs seperti https://worldvectorlogo.com 
+  atau https://simpleicons.org (export ke PNG), atau langsung dari situs 
+  resmi aplikasinya masing-masing.
+
+Setelah file PNG ditaruh di sini, hapus file BACA-INI.txt ini (opsional),
+lalu jalankan ulang "npm run dev" untuk melihat hasilnya.
