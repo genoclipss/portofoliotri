@@ -68,7 +68,7 @@ const DATA_PENGALAMAN = {
       tahun: "2024 — Sekarang",
       deskripsi:
         "Telah menempuh perguruan tingakt tinggi selama 2 tahun / 4 semester.",
-      logo: "https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg?auto=compress&cs=tinysrgb&w=200", // <-- Ganti URL logo
+      logo: "/images/karya/unm.png",
       // <-- Isi galeri "Lebih Detail". Kosongkan foto & video ( [] ) jika tidak ingin tombol muncul.
       karya: {
         foto: [
@@ -93,7 +93,7 @@ const DATA_PENGALAMAN = {
       tahun: "2021 — 2024",
       deskripsi:
         "Telah menempuh pendidikan selama 3 tahun dalam bidang multimedia.",
-      logo: "https://images.pexels.com/photos/207692/pexels-photo-207692.jpeg?auto=compress&cs=tinysrgb&w=200",
+      logo: "/images/karya/smk.png",
       karya: {
         foto: [
           aset("/images/karya/smk/1.jpg"),
@@ -114,7 +114,7 @@ const DATA_PENGALAMAN = {
       tahun: "2026 — Sekarang",
       deskripsi:
         "Ambil alih pada bidang redaksi lebih tepatnya sebagai editor mencakup, mengedit video, membuat thumbnail hingga voice over.",
-      logo: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=200",
+      logo: "/images/karya/tribun.png",
       karya: {
         foto: [aset("/images/karya/tribun/1.jpeg")],
         video: [
@@ -197,7 +197,7 @@ const DATA_PENGALAMAN = {
       tahun: " Juni 2023 — September 2023",
       deskripsi:
         "Mengedit berita hingga perkiraan cuaca pada program PRIMEZONE, Menjadi Operator pada program live PRIMEZONE, serta turun lapangan untuk meliput berita secara langsung.",
-      logo: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=200",
+      logo: "/images/karya/fajar.jpg",
       karya: {
         foto: [
           aset("/images/karya/fajar/1.jpg"),
@@ -229,7 +229,7 @@ const DATA_PENGALAMAN = {
       tahun: "2025 — Sekarang ",
       deskripsi:
         "Semenjak menjadi clipper, saya telah mengupload 24 video pada Youtube dan Tiktok, total like melebihi 90.00k ",
-      logo: "https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&w=200",
+      logo: "/images/karya/tiktok.png",
       karya: {
         foto: [
           aset("/images/karya/clip/1.jpg"),
@@ -245,7 +245,7 @@ const DATA_PENGALAMAN = {
       tahun: "2025 — Sekarang",
       deskripsi:
         "Ketika saya luang dan hilang arah, biasanya saya bermain dengan kreativitas saya di software editing",
-      logo: "https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&w=200",
+      logo: "/images/karya/ig.png",
       karya: {
         foto: [
           aset("/images/karya/desain/1.jpg"),
