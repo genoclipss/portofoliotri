@@ -68,7 +68,7 @@ const DATA_PENGALAMAN = {
       tahun: "2024 — Sekarang",
       deskripsi:
         "Telah menempuh perguruan tingakt tinggi selama 2 tahun / 4 semester.",
-      logo: aset("/images/karya/unm.png"),
+      logo: aset("/images/karya/unmm.png"),
       // <-- Isi galeri "Lebih Detail". Kosongkan foto & video ( [] ) jika tidak ingin tombol muncul.
       karya: {
         foto: [
