@@ -116,7 +116,7 @@ const DATA_PENGALAMAN = {
         "Ambil alih pada bidang redaksi lebih tepatnya sebagai editor mencakup, mengedit video, membuat thumbnail hingga voice over.",
       logo: "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=200",
       karya: {
-        foto: [aset("/images/karya/1.jpeg")],
+        foto: [aset("/images/karya/tribun/1.jpeg")],
         video: [
           "https://youtu.be/HAcLrkSuBv8",
 "https://youtu.be/LmGDIe6PlMM",
