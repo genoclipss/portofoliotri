@@ -274,9 +274,6 @@ const DATA_SKILL = [
   { nama: "Canva", logo: aset("/logos/CANVA.PNG") },
   { nama: "Figma", logo: aset("/logos/FIGMA.PNG") },
   { nama: "Vscode", logo: aset("/logos/vscode.png") },
-  { nama: "Git", logo: aset("/logos/git.png") },
-  { nama: "UI Design", logo: aset("/logos/ui-design.png") },
-  { nama: "UX Research", logo: aset("/logos/ux-research.png") },
 ];
 
 /* ============================================================
