@@ -13,6 +13,7 @@ import {
   Phone,
   Play,
   Link2,
+  Download,
 } from "lucide-react";
 
 /* ============================================================
@@ -47,6 +48,10 @@ const DATA_PRIBADI = {
   // Link tombol CTA di Hero Section
   whatsapp: "https://wa.me/62882022211031", // <-- Ganti nomor WhatsApp (format: 62...)
   instagram: "https://instagram.com/3fhatur", // <-- Ganti username Instagram
+  // Tombol "Download CV" di Hero Section
+  // <-- Taruh file CV (PDF) Anda di folder public/cv/ dengan nama CV.pdf,
+  //     atau ganti nama file di path bawah ini sesuai nama file Anda.
+  cv: aset("/cv/CV.pdf"),
   // About Me
  fotoProfil:
  aset("/images/p.jpg"),
@@ -454,6 +459,14 @@ function Hero() {
             <Instagram size={20} />
             Lihat Instagram
           </a>
+          <a
+            href={DATA_PRIBADI.cv}
+            download
+            className="group flex items-center gap-3 px-8 py-4 border border-cream/20 text-cream rounded-full font-semibold hover:border-gold hover:text-gold transition-all duration-300 hover:-translate-y-0.5"
+          >
+            <Download size={20} />
+            Download CV
+          </a>
         </div>
       </div>
 
@@ -742,10 +755,16 @@ function ModalKarya({
       {previewAktif && (
         <div
           className="fixed inset-0 z-[110] flex items-center justify-center p-4 bg-black/90 animate-[fadeInUp_0.3s_cubic-bezier(0.16,1,0.3,1)]"
-          onClick={() => setPreviewAktif(null)}
+          onClick={(e) => {
+            e.stopPropagation();
+            setPreviewAktif(null);
+          }}
         >
           <button
-            onClick={() => setPreviewAktif(null)}
+            onClick={(e) => {
+              e.stopPropagation();
+              setPreviewAktif(null);
+            }}
             className="absolute top-6 right-6 text-cream/70 hover:text-gold transition-colors duration-300"
             aria-label="Tutup preview"
           >
