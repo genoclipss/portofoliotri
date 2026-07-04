@@ -67,7 +67,7 @@ const DATA_PENGALAMAN = {
       instansi: "Pend. Teknik Informatika & Komputer",
       tahun: "2024 — Sekarang",
       deskripsi:
-        "Saya merupakan mahasiswa Program Studi Pendidikan Teknik Informatika dan Komputer (PTIK) di Universitas Negeri Makassar yang saat ini sedang menempuh semester lima. Selama masa perkuliahan, saya aktif mengikuti berbagai kegiatan akademik dan nonakademik.",
+        "Saya merupakan mahasiswa Program Studi Pendidikan Teknik Informatika dan Komputer di Universitas Negeri Makassar yang saat ini sedang menempuh semester lima. Selama masa perkuliahan, saya aktif mengikuti berbagai kegiatan akademik dan nonakademik.",
       logo: aset("/images/karya/unmm.png"),
       // <-- Isi galeri "Lebih Detail". Kosongkan foto & video ( [] ) jika tidak ingin tombol muncul.
       karya: {
@@ -92,7 +92,7 @@ const DATA_PENGALAMAN = {
       instansi: "Jurusan Multimedia",
       tahun: "2021 — 2024",
       deskripsi:
-        "Saya menempuh pendidikan menengah kejuruan pada jurusan Multimedia, di mana saya , Selama masa pendidikan, saya memperoleh pengalaman dalam pengambilan foto dan video, serta mengembangkan kemampuan mengedit foto dan video",
+        "Saya menempuh pendidikan menengah kejuruan pada jurusan Multimedia. Selama masa pendidikan, saya memperoleh pengalaman dalam pengambilan foto dan video, serta mengembangkan kemampuan mengedit foto dan video.",
       logo: aset("/images/karya/smk.png"),
       karya: {
         foto: [
@@ -113,7 +113,7 @@ const DATA_PENGALAMAN = {
       instansi: "Tribun Timur Makassar",
       tahun: "2026 — Sekarang",
       deskripsi:
-        "Selama magang di Tribun Timur, saya berkontribusi dalam bidang redaksi sebagai editor video, pengisi voice over, dan desainer thumbnail. Dari pengalaman tersebut, saya berhasil menghasilkan lebih dari 80 konten digital yang dipublikasikan, sekaligus mengembangkan keterampilan di bidang editing, desain visual, dan komunikasi digital.",
+        "Selama magang di Tribun Timur, saya berkontribusi dalam bidang redaksi sebagai editor video, pengisi voice over, dan desainer thumbnail. Dari pengalaman tersebut, saya berhasil menghasilkan lebih dari 80 konten digital yang dipublikasikan.",
       logo: aset("/images/karya/tribun.png"),
       karya: {
         foto: [aset("/images/karya/tribun/1.jpeg")],
@@ -196,7 +196,7 @@ const DATA_PENGALAMAN = {
       instansi: "P.T Fajar TV Makassar",
       tahun: " Juni 2023 — September 2023",
       deskripsi:
-        "saya terlibat secara langsung dalam proses produksi siaran televisi, mulai dari mengedit konten berita dan segmen prakiraan cuaca pada program PRIMEZONE, menjadi operator saat program PRIMEZONE berlangsung secara live, hingga melakukan peliputan berita di lapangan.",
+        "Saya terlibat secara langsung dalam proses produksi siaran televisi, mulai dari mengedit konten berita dan segmen prakiraan cuaca pada program PRIMEZONE, menjadi operator saat program PRIMEZONE berlangsung secara live, hingga melakukan peliputan berita di lapangan.",
       logo: aset("/images/karya/fajar.jpg"),
       karya: {
         foto: [
