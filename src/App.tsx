@@ -934,7 +934,7 @@ function Footer() {
       <div className="max-w-7xl mx-auto px-6 text-center">
         <p className="text-cream/40 text-sm mb-4">
           &copy; {new Date().getFullYear()} {DATA_PRIBADI.nama}. Dibuat dengan
-          dedikasi.
+          Claude & Tekad.
         </p>
         <div className="flex justify-center gap-6">
           <a
