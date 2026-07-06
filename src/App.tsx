@@ -118,7 +118,7 @@ const DATA_PENGALAMAN = {
       instansi: "Tribun Timur Makassar",
       tahun: "2026 — Sekarang",
       deskripsi:
-        "Selama magang di Tribun Timur, saya berkontribusi dalam bidang redaksi sebagai editor video, pengisi voice over, dan desainer thumbnail. Dari pengalaman tersebut, saya berhasil menghasilkan lebih dari 80 konten digital yang dipublikasikan.",
+        "Selama magang di Tribun Timur, saya berkontribusi dalam bidang redaksi sebagai editor video, pengisi voice over, dan desainer thumbnail. Saya berhasil menghasilkan lebih dari 80 konten digital yang dipublikasikan.",
       logo: aset("/images/karya/tribun.png"),
       karya: {
         foto: [aset("/images/karya/tribun/1.jpeg")],
