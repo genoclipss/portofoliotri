@@ -121,7 +121,7 @@ const DATA_PENGALAMAN = {
         "Selama magang di Tribun Timur, saya berkontribusi dalam bidang redaksi sebagai editor video, pengisi voice over, dan desainer thumbnail. Saya berhasil menghasilkan lebih dari 80 konten digital yang dipublikasikan.",
       logo: aset("/images/karya/tribun.png"),
       karya: {
-        foto: [aset("/images/karya/tribun/1.jpeg")],
+        foto: [aset("/images/karya/tribun/2.jpeg")],
         video: [
           "https://youtu.be/HAcLrkSuBv8",
 "https://youtu.be/LmGDIe6PlMM",
